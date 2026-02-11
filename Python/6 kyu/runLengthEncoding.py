@@ -1,3 +1,5 @@
+# https://www.codewars.com/kata/546dba39fa8da224e8000467/train/python
+
 def run_length_encoding(s):
     rle_list = []
     j = 0
